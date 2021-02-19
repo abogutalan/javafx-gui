@@ -1,6 +1,3 @@
-#A4 ReadMe
-
-Abdullah Ogutalan	1109732
 
 # javafx_gui
 
